@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.svg" width="100%" />
+</p>
 <h1 align="center">Hi there, I'm Sammi Azaz 👋</h1>
 
 <p align="center">
