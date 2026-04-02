@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./banner.svg" width="100%" />
-</p>
-<h1 align="center">Hi there, I'm Sammi Azaz 👋</h1>
 
-<p align="center">
-  <em>CS Engineering student @ IILM University · ML & Web Dev enthusiast · Building cool stuff one commit at a time</em>
-</p>
 
 <p align="center">
   <a href="mailto:sammiazaz2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
