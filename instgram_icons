@@ -1,0 +1,19 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="igbg" cx="30%" cy="110%" r="140%">
+      <stop offset="0%"  stop-color="#fbe18a"/>
+      <stop offset="15%" stop-color="#fcbb45"/>
+      <stop offset="35%" stop-color="#f75274"/>
+      <stop offset="55%" stop-color="#d53692"/>
+      <stop offset="75%" stop-color="#8f39ce"/>
+      <stop offset="100%" stop-color="#5b4fe9"/>
+    </radialGradient>
+  </defs>
+  <rect width="48" height="48" rx="11" fill="url(#igbg)"/>
+  <!-- Camera body -->
+  <rect x="12" y="12" width="24" height="24" rx="7" fill="none" stroke="white" stroke-width="2.2"/>
+  <!-- Lens circle -->
+  <circle cx="24" cy="24" r="6" fill="none" stroke="white" stroke-width="2.2"/>
+  <!-- Flash dot -->
+  <circle cx="33.5" cy="14.5" r="1.8" fill="white"/>
+</svg>
