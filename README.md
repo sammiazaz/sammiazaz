@@ -1,11 +1,12 @@
 <p align="center">
   <img src="./banner.svg" width="100%" />
-
+</p>
 
 <p align="center">
-  <a href="mailto:sammiazaz2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sammi-azazb07a7028b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="mailto:sammiazaz2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sammiazazse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tripnest.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tripnest.vercel.app-6C47FF?style=flat&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-orange?style=flat&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
@@ -13,69 +14,69 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering @ **IILM University, Greater Noida** (2023–2027)
-- 🤖 Passionate about **Machine Learning, AI**, and building smart web apps
-- 💡 Explored projects in **recommendation systems** and **medical AI**
-- ☁️ AWS-certified and cloud-curious
-- 🔭 Currently leveling up in **full-stack development** and **deep learning**
+- 💻 Aspiring **Software Engineer | Frontend Developer** passionate about building clean, responsive web apps
+- 🚀 Built **TripNest** — an AI-powered full-stack travel planning platform (React.js + Node.js + Vercel)
+- ☁️ AWS-certified and currently leveling up in **TypeScript** and **Full-Stack Development**
+- 📱 Certified in **Social Media Marketing** — exploring digital content strategy
+- 🤝 Strong believer in collaboration, problem-solving, and learning-focused development
 - 📫 Reach me at: **sammiazaz2005@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### 💬 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,mysql&theme=dark" />
 </p>
 
-### ML / AI
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-00897B?style=for-the-badge&logo=opencv&logoColor=white"/>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
 </p>
 
-### Web & Cloud
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="./icons/restapi.svg" width="48" height="48" style="margin-left:6px"/>
 </p>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+### 🧰 Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+</p>
+
+### 📱 Social Media
+<p align="left">
+  <img src="./icons/instagram.svg" width="48" height="48"/>
+  <img src="./icons/twitter.svg" width="48" height="48"/>
+  <img src="./icons/linkedin.svg" width="48" height="48"/>
+  <img src="./icons/youtube.svg" width="48" height="48"/>
+  <img src="./icons/content.svg" width="48" height="48"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 AI-Powered Movie Recommendation System
-> **Python · Streamlit · Scikit-learn · TMDB API** — *March 2025*
+### ✈️ TripNest — AI-Powered Travel Planning Platform
+> **React.js · Vite · Node.js · Express.js · REST APIs · Vercel** — *2025*
 
-Built a content-based movie recommendation engine using **cosine similarity** on genre, cast, and keyword metadata. Deployed as an interactive Streamlit app with dynamic filtering.
+Full-stack travel platform where users can discover destinations, create and manage trips, organize itineraries, and collaborate with team members on shared travel plans. Built with a reusable, component-based React.js architecture and deployed on Vercel.
 
-### ❤️ Heart Disease Prediction using ML
-> **Python · Scikit-learn · SMOTE** — *Dec 2025*
+🔗 **Live:** [tripnest.vercel.app](https://tripnest.vercel.app) &nbsp;|&nbsp; 📂 **Repo:** [github.com/sammiazaz](https://github.com/sammiazaz)
 
-ML pipeline using **Logistic Regression & Random Forest** to predict heart disease risk. Tackled class imbalance with SMOTE, with full feature engineering and preprocessing for early medical intervention.
+---
+
+### ❤️ Human Heart Disease Prediction System
+> **Python · Scikit-learn · SMOTE · Pandas · NumPy** — *Dec 2025*
+
+ML classification pipeline using Logistic Regression and Random Forest to predict heart disease risk from patient health indicators. Applied SMOTE to correct class imbalance and improve detection reliability for high-risk patients.
 
 ---
 
@@ -88,11 +89,17 @@ ML pipeline using **Logistic Regression & Random Forest** to predict heart disea
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
+- 📱 **Introduction to Social Media** — Jul 2026
 - ☁️ **AWS Academy Graduate** — Machine Learning Foundations
 - 🌐 **Web Development** Certification
 - ☕ **Java Programming: Beginner to Master** — Udemy
+
+---
+
+## 🤝 Hackathons & Participation
+
 - 🤖 Contributed to **Google Cloud Agentic AI Day** (Hack2Skill) — Feb 2025
 - 🚀 Participated in **Bharatiya Antariksh Hackathon 2025**
 
