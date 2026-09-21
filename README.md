@@ -7,7 +7,7 @@ Software Engineer • Full Stack Developer • AI Enthusiast
 <p align="center"> 
 Building scalable software and modern web applications using Java, React, Node.js, and AI-driven technologies.
 </p>
-
+ 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4F46E5&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;React+%7C+Node.js;Always+Learning+🚀"/>
 </p>
