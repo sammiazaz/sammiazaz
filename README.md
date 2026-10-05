@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sammi Azaz</h1>
  
-<h3 align="center">
+<h3 align="center">  
 Software Engineer • Full Stack Developer • AI Enthusiast 
 </h3> 
 
